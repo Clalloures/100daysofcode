@@ -15,7 +15,7 @@ So lets start:
 | 07 |  |  |  |
 
 
-|Day | What I learned | How I feeling | 
+|Day | What I learned | How I am feeling | 
 |------|------|------|
 |Monday| | |
 |Tuesday|| |
