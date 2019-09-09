@@ -4,6 +4,11 @@
 - Criar metas
 - Criar posts
 - Tabela de Atividades
+- Criar introdução no readme
+- Criar parte about me
+- Colocar minhas redes sociais
+- Colocar qq vou fazer cada dia
+- Colocar onde irei escrever sobre cada dia/ semana
 
 This is my repository for the 100 day code challenge. My Goals are
 - [ ] 
