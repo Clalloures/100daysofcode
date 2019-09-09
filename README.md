@@ -5,6 +5,23 @@
 - Criar posts
 - Tabela de Atividades
 
+This is my repository for the 100 day code challenge. My Goals are
+- [ ] 
+- [ ] 
+- [ ]
+- [ ]
+- [ ]
+
+My subprojects:
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+You can see more about them in:
+- [ ](./Pasta)
+- [ ](<!--https://site-->)
+
 
 |Day|What I study | What I used to study | How long |
 |------|------|------|-------|
