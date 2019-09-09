@@ -6,10 +6,13 @@ checklist
 - [x] Comprar macarrão
 
 
-| Tables | Are | Cool | |----------|:-------------:|------:| | col 1 is| left-aligned | $1600 |
+| Tables | Are | Cool |
+|----------|:-------------:|------:| 
+|col 1 is| left-aligned | $1600 |
 
 
 Data
+
 Alimentos | Preço
 --------- | ------
 Arroz     | R$ 10
