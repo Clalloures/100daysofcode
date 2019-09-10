@@ -1,4 +1,4 @@
-# 100daysofcodeprivate
+# 100 days of code :octocat:
 
 - Criar projeto
 - Criar metas
