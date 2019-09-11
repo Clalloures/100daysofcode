@@ -1,6 +1,6 @@
 # 100 days of code :octocat:
 
-| [Slides] | [Material] | [Calendário] | [Informes] | [Listas] | [Bibliografia] |
+| [Jupyter Notebooks] | [Study Material] | [Calendar] | [Informes] | [Listas] | [Bibliografia] |
 |----------|------------|--------------|------------|----------|----------------|
 - - -
 
@@ -150,11 +150,10 @@ You can see more about them in:
 
 
 
-[Slides]: https://drive.google.com/drive/folders/1ZIwHz7U8vKAgjvHwkL_R1hZlE_4dsmah?usp=sharing
-[Calendário]: https://docs.google.com/spreadsheets/d/1G46MEMqWo8aM0B_8Ckx0OTZpRgZufIcm_9aYsYFBJZ4/edit?usp=sharing
+[Jupyter Notebooks]: https://drive.google.com/drive/folders/1ZIwHz7U8vKAgjvHwkL_R1hZlE_4dsmah?usp=sharing
+[Calendar]: https://docs.google.com/spreadsheets/d/1G46MEMqWo8aM0B_8Ckx0OTZpRgZufIcm_9aYsYFBJZ4/edit?usp=sharing
 [Informes]: #informes
 [Bibliografia]: #bibliografia
-[Material]: #material
-[Exemplos]: ./aulas/
+[Study Material]: #material
 [Listas]: https://drive.google.com/drive/folders/1BQV0u2NCllvFaDIy7qWS9I5YhUTyH9td?usp=sharing
 
