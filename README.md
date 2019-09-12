@@ -7,10 +7,10 @@
 -->
 
 This is my repository for the 100 day code challenge. My Goals are
-- [Have strong knowledge of AI, ML and CV basics] 
-- [Be able to implement these areas in robotics] 
-- [Have confidence to talk about these subjects]
-- [Learn a little about in Deep Learning]
+- [] Have strong knowledge of AI, ML and CV basics
+- [] Be able to implement these areas in robotics 
+- [] Have confidence to talk about these subjects
+- [] Learn a little about in Deep Learning
 
 Top Repositories
 - [Machine Learning](https://github.com/Clalloures/Machine-Learning)
