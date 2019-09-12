@@ -1,26 +1,16 @@
 # 100 days of code :octocat:
 
+<!--
 | [Jupyter Notebooks] | [Study Material] | [Calendar] | [Informes] | [Listas] | [Bibliografia] |
 |----------|------------|--------------|------------|----------|----------------|
 - - -
-
-
-- Criar projeto
-- Criar metas
-- Criar posts
-- Tabela de Atividades
-- Criar introdução no readme
-- Criar parte about me
-- Colocar minhas redes sociais
-- Colocar qq vou fazer cada dia
-- Colocar onde irei escrever sobre cada dia/ semana
+-->
 
 This is my repository for the 100 day code challenge. My Goals are
-- [ ] 
-- [ ] 
-- [ ]
-- [ ]
-- [ ]
+- [Have strong knowledge of AI, ML and CV basics] 
+- [Be able to implement these areas in robotics] 
+- [Have confidence to talk about these subjects]
+- [Learn a little about in Deep Learning]
 
 Top Repositories
 - [Machine Learning](https://github.com/Clalloures/Machine-Learning)
@@ -28,15 +18,21 @@ Top Repositories
 - [Robotics-with-Python](https://github.com/Clalloures/Robotics-with-Python)
 - [Data Science]()
 
+
+<!--
 My subprojects:
 - [ ]
 - [ ]
 - [ ]
 - [ ]
-
+-->
+<!--
 You can see more about them in:
 - [ ](./Pasta)
-- [ ](<!--https://site-->)
+- [ ]
+-->
+
+Start: 14/09
 
 
 |Day|What I study | What I used to study | How long |
