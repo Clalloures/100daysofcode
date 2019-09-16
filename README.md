@@ -32,7 +32,7 @@ You can see more about them in:
 - [ ]
 -->
 
-Start: 14/09
+Start: 16/09
 
 
 |Day|What I study | What I used to study | How long |
