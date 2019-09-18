@@ -38,7 +38,7 @@ Start: 16/09
 |Day|What I study | What I used to study | How long |
 |------|------|------|-------|
 | 01 |  Face detection| https://pysource.com/2019/03/25/pigs-nose-instagram-face-filter-opencv-with-python/ | 1h |
-| 02 |  |  |  |
+| 02 | Face detection and basics of CV |  | 1h |
 | 03 |  |  |  |
 | 04 |  |  |  |
 | 05 |  |  |  |
