@@ -39,7 +39,7 @@ Start: 16/09
 |------|------|------|-------|
 | 01 |  Face detection| https://pysource.com/2019/03/25/pigs-nose-instagram-face-filter-opencv-with-python/ | 1h |
 | 02 | Face detection and basics of CV |  | 1h |
-| 03 |  |  |  |
+| 03 | Reading Day |  | 1h |
 | 04 |  |  |  |
 | 05 |  |  |  |
 | 06 |  |  |  |
