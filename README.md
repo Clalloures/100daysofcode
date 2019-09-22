@@ -41,7 +41,7 @@ Start: 16/09
 | 02 | Face detection and basics of CV |  | 1h |
 | 03 | Reading Day |  | 1h |
 | 04 | Lecture 1 | Introduction to Convolutional Neural Networks for Visual Recognition | 2h |
-| 05 |  |  |  |
+| 05 | Lecture 2 and 3 | Introduction to Convolutional Neural Networks for Visual Recognition| 2h |
 | 06 |  |  |  |
 | 07 |  |  |  |
 | 08 |  |  |  |
