@@ -32,7 +32,7 @@ You can see more about them in:
 - [ ]
 -->
 
-Start: 16/09
+Start: March 02 - 2020
 
 
 |Day|What I study | What I used to study | How long |
