@@ -38,7 +38,7 @@ Start: March 02 - 2020
 |Day|What I study | What I used to study | How long |
 |------|------|------|-------|
 | 01 |  Face detection| https://pysource.com/2019/03/25/pigs-nose-instagram-face-filter-opencv-with-python/ | 1h |
-| 02 |  |  |  |
+| 02 |  Deep Learning Introduction and video classification with Deep Learning| <university material> |2h  |
 | 03 |  |  |  |
 | 04 |  |  |  |
 | 05 |  |  |  |
