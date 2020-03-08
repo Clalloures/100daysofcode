@@ -38,10 +38,10 @@ Start: March 02 - 2020
 |Day|What I study | What I used to study | How long |
 |------|------|------|-------|
 | 01 |  Face detection| https://pysource.com/2019/03/25/pigs-nose-instagram-face-filter-opencv-with-python/ | 1h |
-| 02 |  Deep Learning Introduction and video classification with Deep Learning| <university material> |2h  |
+| 02 |  Deep Learning Introduction and video classification with Deep Learning| university material |2h  |
 | 03 |  Video Analysis to Detect Suspicious Activity Based on Deep Learning| https://medium.com/@everisUS/video-analysis-to-detect-suspicious-activity-based-on-deep-learning-fee2032ea14a | 1h |
-| 04 | Deep Learning Introduction |  <university material>| 1h |
-| 05 | EMMTBH EVENT + Deep Learning Introduction | <university material>  | all day  |
+| 04 | Deep Learning Introduction |  university material| 1h |
+| 05 | EMMTBH EVENT + Deep Learning Introduction | university material  | all day  |
 | 06 | SOME MACHINE LEARNING ALGORITHMS |  | 2h |
 | 07 |  |  |  |
 | 08 |  |  |  |
