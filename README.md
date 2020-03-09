@@ -43,7 +43,7 @@ Start: March 02 - 2020
 | 04 | Deep Learning Introduction |  university material| 1h |
 | 05 | EMMTBH EVENT + Deep Learning Introduction | university material  | all day  |
 | 06 | SOME MACHINE LEARNING ALGORITHMS |  | 2h |
-| 07 |  |  |  |
+| 07 |  Self-Supervised Video Anomaly Detection| https://launchpad.ai/blog/video-anomaly-detection and others |2h  |
 | 08 |  |  |  |
 | 09 |  |  |  |
 | 10 |  |  |  |
