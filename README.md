@@ -39,7 +39,7 @@ Início Julho 13 - 2020
 
 |Dia|O que estudei | Falar sobre |Tempo |
 |------|------|------|-------|
-| 01 | | | |
+| 01 |Revisão geral de ML e DL, algoritmos de ML e redes neurais | | 4horas |
 | 02 | | | |
 | 03 | | | |
 | 04 | | | |
