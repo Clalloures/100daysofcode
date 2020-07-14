@@ -34,10 +34,10 @@ You can see more about them in:
 - [ ]
 -->
 
-Start: March 02 - 2020
+Início Julho 13 - 2020
 
 
-|Day|What I study | What I used to study | How long |
+|Dia|O que estudei | Falar sobre |Tempo |
 |------|------|------|-------|
 | 01 | | | |
 | 02 | | | |
