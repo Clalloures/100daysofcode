@@ -40,21 +40,21 @@ Início Julho 13 - 2020
 |Dia|O que estudei | Falar sobre |Tempo |
 |------|------|------|-------|
 | 01 |Revisão geral de ML e DL, algoritmos de ML e redes neurais | | 4horas |
-| 02 | | | |
-| 03 | | | |
-| 04 | | | |
-| 05 | | | |
-| 06 |  | | |
-| 07 |   | | |
-| 08 |  | | |
-| 09 | | | |
-| 10 |  | | |
-| 11 |   | | |
-| 12 |  | | |
-| 13 |  |  |  |
-| 14 |  |  |  |
-| 15 |  |  |  |
-| 16 |  |  |  |
+| 02 |Início do curso de ML | | |
+| 03 | Curso de ML do IGTI módulo 1| | |
+| 04 | Curso de ML do IGTI módulo 1 | | |
+| 05 |  Curso de ML do IGTI módulo 1| | |
+| 06 | Curso de ML do IGTI módulo 1  | | |
+| 07 |  Curso de ML do IGTI módulo 1  | | |
+| 08 |  Curso de ML do IGTI módulo 1 | | |
+| 09 | Curso de ML do IGTI módulo 1 | | |
+| 10 | Curso de ML do IGTI módulo 1  | | |
+| 11 |  Curso de ML do IGTI módulo 1  | | |
+| 12 | Curso de ML do IGTI módulo 1  | | |
+| 13 |  Curso de ML do IGTI módulo 1 |  |  |
+| 14 | Curso de ML do IGTI módulo 1  |  |  |
+| 15 |  Curso de ML do IGTI módulo 2 |  |  |
+| 16 | Curso de ML do IGTI módulo 2 |  |  |
 | 17 |  |  |  |
 | 18 |  |  |  |
 | 19 |  |  |  |
