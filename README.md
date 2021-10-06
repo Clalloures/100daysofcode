@@ -39,7 +39,7 @@ Início Julho 13 - 2020
 
 |Dia|O que estudei | Falar sobre |Tempo |
 |------|------|------|-------|
-| 01 | | |  |
+| 01 | Algoritmos de Classificação | Vou fazer um Medium no Final de semana resumindo o assunto | 2h |
 | 02 | | |  |
 | 03 | | |  |
 | 04 |  | |  |
