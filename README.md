@@ -42,7 +42,7 @@ Início Julho 13 - 2020
 | 01 | Algoritmos de Classificação | Vou fazer um Medium no Final de semana resumindo o assunto | 2h |
 | 02 | Leitura livro Building Machine Learning Powered Applications |  | 3h |
 | 03 | Leitura livro Building Machine Learning Powered Applications|  | 5h |
-| 04 |  | |  |
+| 04 |  Projeto Visão Computacional - Desenho| |  |
 | 05 |  | |  |
 | 06 |  | |  |
 | 07 |  | |  |
