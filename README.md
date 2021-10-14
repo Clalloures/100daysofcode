@@ -34,7 +34,7 @@ You can see more about them in:
 - [ ]
 -->
 
-Início Julho 13 - 2020
+Início Outubro 06 - 2021
 
 
 |Dia|O que estudei | Falar sobre |Tempo |
@@ -42,12 +42,12 @@ Início Julho 13 - 2020
 | 01 | Algoritmos de Classificação | Vou fazer um Medium no Final de semana resumindo o assunto | 2h |
 | 02 | Leitura livro Building Machine Learning Powered Applications |  | 3h |
 | 03 | Leitura livro Building Machine Learning Powered Applications|  | 5h |
-| 04 |  Projeto Visão Computacional - Desenho| |  |
-| 05 |  | |  |
-| 06 |  | |  |
-| 07 |  | |  |
-| 08 |  | |  |
-| 09 | | |  |
+| 04 |  Projeto Visão Computacional - Desenho| | 2h |
+| 05 |  Cap curso de Introdução a ML semana 3| | 2h |
+| 06 |  Cap curso de Introdução a ML semana 3| | 2h |
+| 07 |  Cap curso de Introdução a ML semana 4| | 2h |
+| 08 |  Cap curso de Introdução a ML semana 4| | 2h |
+| 09 | Cap curso de Introdução a ML semana 5| | 2h |
 | 10 |  | |  |
 | 11 |  | |  |
 | 12 | | |  |
