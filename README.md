@@ -48,7 +48,7 @@ Início Outubro 06 - 2021
 | 07 |  Cap curso de Introdução a ML semana 4| | 2h |
 | 08 |  Cap curso de Introdução a ML semana 4| | 2h |
 | 09 | Cap curso de Introdução a ML semana 5| | 2h |
-| 10 |  | |  |
+| 10 |  Cap curso de Introdução a ML semana 6| | 2h |
 | 11 |  | |  |
 | 12 | | |  |
 | 13 |  | |  |
