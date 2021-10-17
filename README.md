@@ -49,8 +49,8 @@ Início Outubro 06 - 2021
 | 08 |  Cap curso de Introdução a ML semana 4| | 2h |
 | 09 | Cap curso de Introdução a ML semana 5| | 2h |
 | 10 |  Cap curso de Introdução a ML semana 6| | 2h |
-| 11 |  | |  |
-| 12 | | |  |
+| 11 |  Digital Image Processing Cap 1| |  1h|
+| 12 |  Digital Image Processing Cap 1| |  2h|
 | 13 |  | |  |
 | 14 |  | |  |
 | 15 |   | |  |
